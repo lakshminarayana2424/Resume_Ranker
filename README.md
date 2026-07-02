@@ -1,4 +1,4 @@
-# Redrob Hackathon v4: Candidate Discovery & Ranking Pipeline
+# Redrob Hackathon: Candidate Discovery & Ranking Pipeline
 
 This repository contains the complete machine learning pipeline used to evaluate, score, and rank 100,000 synthetic candidate profiles against a Senior AI Engineer job description.
 
