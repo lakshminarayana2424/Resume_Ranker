@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0002025,1,0.360606,Expected salary max lpa (63.60) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.50) supports this ranking.
+CAND_0005538,2,0.360606,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.21) supports this ranking; expected salary max lpa (69.60) supports this ranking.
+CAND_0006567,3,0.360606,Expected salary max lpa (53.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.15) supports this ranking.
+CAND_0007411,4,0.360606,Expected salary max lpa (59.60) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.29) supports this ranking.
+CAND_0008425,5,0.360606,Expected salary max lpa (74.50) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.59) supports this ranking.
+CAND_0011687,6,0.360606,Expected salary max lpa (60.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.46) supports this ranking.
+CAND_0018499,7,0.360606,Expected salary max lpa (56.60) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.29) supports this ranking.
+CAND_0030468,8,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (59.10) supports this ranking; avg skill proficiency (3.50) supports this ranking.
+CAND_0039754,9,0.360606,Expected salary max lpa (62.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.25) supports this ranking.
+CAND_0041611,10,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (73.90) supports this ranking; avg skill proficiency (3.39) supports this ranking.
+CAND_0046064,11,0.360606,Expected salary max lpa (53.40) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.25) supports this ranking.
+CAND_0046525,12,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (51.90) supports this ranking; avg skill proficiency (3) supports this ranking.
+CAND_0055905,13,0.360606,Expected salary max lpa (64.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.46) supports this ranking.
+CAND_0061257,14,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (52.30) supports this ranking; avg skill proficiency (3.31) supports this ranking.
+CAND_0068351,15,0.360606,Expected salary max lpa (57.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.37) supports this ranking.
+CAND_0071974,16,0.360606,Expected salary max lpa (58.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.26) supports this ranking.
+CAND_0080766,17,0.360606,Expected salary max lpa (52.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.29) supports this ranking.
+CAND_0081846,18,0.360606,Expected salary max lpa (52.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.56) supports this ranking.
+CAND_0086022,19,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (72.60) supports this ranking; avg skill proficiency (3.21) supports this ranking.
+CAND_0088025,20,0.360606,Max skill proficiency (4) supports this ranking; expected salary max lpa (51.30) supports this ranking; avg skill proficiency (3.32) supports this ranking.
+CAND_0094759,21,0.360606,Expected salary max lpa (61.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.31) supports this ranking.
+CAND_0033861,22,0.332018,Max skill proficiency (4) supports this ranking; expected salary max lpa (56.60) supports this ranking; avg skill proficiency (3.22) supports this ranking.
+CAND_0077337,23,0.332018,Max skill proficiency (4) supports this ranking; expected salary max lpa (51.30) supports this ranking; avg skill proficiency (3.30) supports this ranking.
+CAND_0092278,24,0.332018,Max skill proficiency (4) supports this ranking; expected salary max lpa (70.50) supports this ranking; avg skill proficiency (3.35) supports this ranking.
+CAND_0005649,25,0.298869,Expected salary max lpa (54.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.12) supports this ranking.
+CAND_0011432,26,0.298869,Expected salary max lpa (55.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (2.93) supports this ranking.
+CAND_0013536,27,0.298869,Expected salary max lpa (54) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.17) supports this ranking.
+CAND_0015528,28,0.298869,Max skill proficiency (4) supports this ranking; expected salary max lpa (57.30) supports this ranking; avg skill proficiency (3) supports this ranking.
+CAND_0017960,29,0.298869,Expected salary max lpa (55.40) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.14) supports this ranking.
+CAND_0018549,30,0.298869,Max skill proficiency (4) supports this ranking; expected salary max lpa (58.50) supports this ranking; avg skill proficiency (3.36) supports this ranking.
+CAND_0027801,31,0.298869,Expected salary max lpa (61.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.13) supports this ranking.
+CAND_0030953,32,0.298869,Expected salary max lpa (62.50) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.07) supports this ranking.
+CAND_0041669,33,0.298869,Expected salary max lpa (52.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (2.95) supports this ranking.
+CAND_0044222,34,0.298869,Expected salary max lpa (60.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (2.95) supports this ranking.
+CAND_0055992,35,0.298869,Expected salary max lpa (57.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.12) supports this ranking.
+CAND_0057563,36,0.298869,Expected salary max lpa (52.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.21) supports this ranking.
+CAND_0062247,37,0.298869,Expected salary max lpa (61.40) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (2.94) supports this ranking.
+CAND_0065878,38,0.298869,Expected salary max lpa (55.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.13) supports this ranking.
+CAND_0070398,39,0.298869,Max skill proficiency (4) supports this ranking; expected salary max lpa (61.10) supports this ranking; avg skill proficiency (3.44) supports this ranking.
+CAND_0079387,40,0.298869,Expected salary max lpa (54.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.05) supports this ranking.
+CAND_0083879,41,0.298869,Expected salary max lpa (62) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.40) supports this ranking.
+CAND_0091534,42,0.298869,Expected salary max lpa (57.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.30) supports this ranking.
+CAND_0091909,43,0.298869,Max skill proficiency (4) supports this ranking; expected salary max lpa (61.10) supports this ranking; avg skill proficiency (3.36) supports this ranking.
+CAND_0093331,44,0.298869,Max skill proficiency (4) supports this ranking; expected salary max lpa (54.60) supports this ranking; avg skill proficiency (3.17) supports this ranking.
+CAND_0095619,45,0.298869,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.24) supports this ranking; expected salary max lpa (55.10) supports this ranking.
+CAND_0005260,46,0.295692,"Expected salary max lpa (64.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.06) supports this ranking. That said, years of experience (5.20) weighs against this ranking."
+CAND_0093547,47,0.295692,"Expected salary max lpa (62.50) supports this ranking; avg skill proficiency (3.05) supports this ranking; max skill proficiency (4) supports this ranking. On the downside, years of experience (2.90) weighs against this ranking."
+CAND_0060072,48,0.282538,Max skill proficiency (4) supports this ranking; avg skill proficiency (3) supports this ranking; expected salary max lpa (69.20) supports this ranking.
+CAND_0037980,49,0.250442,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.48) supports this ranking; expected salary max lpa (50.50) supports this ranking.
+CAND_0093193,50,0.250442,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.47) supports this ranking; expected salary max lpa (50.50) supports this ranking.
+CAND_0006418,51,0.249389,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.06) supports this ranking; expected salary max lpa (62.90) supports this ranking.
+CAND_0009691,52,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (63.60) supports this ranking; avg skill proficiency (2.95) supports this ranking.
+CAND_0010685,53,0.249389,Expected salary max lpa (64.50) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.12) supports this ranking.
+CAND_0011162,54,0.249389,Expected salary max lpa (58.50) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.18) supports this ranking.
+CAND_0014440,55,0.249389,Expected salary max lpa (59.40) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3) supports this ranking.
+CAND_0024620,56,0.249389,Expected salary max lpa (59.50) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.19) supports this ranking.
+CAND_0027691,57,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (65) supports this ranking; avg skill proficiency (3) supports this ranking.
+CAND_0030031,58,0.249389,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.31) supports this ranking; expected salary max lpa (63.50) supports this ranking.
+CAND_0036184,59,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (56.40) supports this ranking; avg skill proficiency (2.95) supports this ranking.
+CAND_0041610,60,0.249389,Expected salary max lpa (59.40) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.41) supports this ranking.
+CAND_0049538,61,0.249389,Expected salary max lpa (64.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.35) supports this ranking.
+CAND_0051630,62,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (51.90) supports this ranking; avg skill proficiency (3.11) supports this ranking.
+CAND_0052328,63,0.249389,Expected salary max lpa (53.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.12) supports this ranking.
+CAND_0052682,64,0.249389,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.20) supports this ranking; expected salary max lpa (54.50) supports this ranking.
+CAND_0058575,65,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (51.30) supports this ranking; avg skill proficiency (3.17) supports this ranking.
+CAND_0058688,66,0.249389,Max skill proficiency (4) supports this ranking; avg skill proficiency (3) supports this ranking; expected salary max lpa (55.30) supports this ranking.
+CAND_0069905,67,0.249389,Expected salary max lpa (58.90) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.06) supports this ranking.
+CAND_0075249,68,0.249389,Expected salary max lpa (60.30) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.21) supports this ranking.
+CAND_0075574,69,0.249389,Expected salary max lpa (62.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.31) supports this ranking.
+CAND_0078002,70,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (52.20) supports this ranking; avg skill proficiency (3.25) supports this ranking.
+CAND_0081852,71,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (57.30) supports this ranking; avg skill proficiency (3.14) supports this ranking.
+CAND_0089552,72,0.249389,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.16) supports this ranking; expected salary max lpa (55.60) supports this ranking.
+CAND_0095528,73,0.249389,Max skill proficiency (4) supports this ranking; expected salary max lpa (62.50) supports this ranking; avg skill proficiency (3.27) supports this ranking.
+CAND_0007460,74,0.217624,Expected salary max lpa (57.50) supports this ranking; avg skill proficiency (3.22) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0008239,75,0.217624,Expected salary max lpa (55.10) supports this ranking; avg skill proficiency (3.17) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0009837,76,0.217624,Max skill proficiency (4) supports this ranking; expected salary max lpa (53.20) supports this ranking; avg skill proficiency (3.31) supports this ranking.
+CAND_0012957,77,0.217624,Expected salary max lpa (64.10) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.20) supports this ranking.
+CAND_0022812,78,0.217624,Expected salary max lpa (64.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.05) supports this ranking.
+CAND_0032807,79,0.217624,Expected salary max lpa (57.70) supports this ranking; avg skill proficiency (3.06) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0036437,80,0.217624,"Avg skill proficiency (3) supports this ranking; max skill proficiency (4) supports this ranking; expected salary max lpa (58.70) supports this ranking. That said, years of experience (4.80) weighs against this ranking."
+CAND_0039521,81,0.217624,Expected salary max lpa (56.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.11) supports this ranking.
+CAND_0040887,82,0.217624,Expected salary max lpa (52.60) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.25) supports this ranking.
+CAND_0042506,83,0.217624,"Avg skill proficiency (3.37) supports this ranking; max skill proficiency (4) supports this ranking; expected salary max lpa (56.30) supports this ranking. That said, years of experience (4.20) weighs against this ranking."
+CAND_0051292,84,0.217624,Expected salary max lpa (53.80) supports this ranking; avg skill proficiency (3.14) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0054123,85,0.217624,"Max skill proficiency (4) supports this ranking; avg skill proficiency (3.13) supports this ranking; expected salary max lpa (60.50) supports this ranking. However, years of experience (4.70) weighs against this ranking."
+CAND_0056881,86,0.217624,"Max skill proficiency (4) supports this ranking; avg skill proficiency (3.14) supports this ranking; expected salary max lpa (56.20) supports this ranking. However, years of experience (4.50) weighs against this ranking."
+CAND_0065195,87,0.217624,Expected salary max lpa (62.40) supports this ranking; avg skill proficiency (3.38) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0075439,88,0.217624,Expected salary max lpa (62.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.08) supports this ranking.
+CAND_0076904,89,0.217624,Expected salary max lpa (54.10) supports this ranking; avg skill proficiency (3.39) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0079284,90,0.217624,Expected salary max lpa (64.70) supports this ranking; avg skill proficiency (3.07) supports this ranking; max skill proficiency (4) supports this ranking.
+CAND_0084819,91,0.217624,"Avg skill proficiency (3.18) supports this ranking; max skill proficiency (4) supports this ranking; expected salary max lpa (56.20) supports this ranking. However, years of experience (4.50) weighs against this ranking."
+CAND_0096142,92,0.217624,"Max skill proficiency (4) supports this ranking; avg skill proficiency (3) supports this ranking; expected salary max lpa (59.30) supports this ranking. On the downside, years of experience (5) weighs against this ranking."
+CAND_0096172,93,0.217624,Expected salary max lpa (59.80) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (3.33) supports this ranking.
+CAND_0098846,94,0.176046,Expected salary max lpa (54.70) supports this ranking; max skill proficiency (4) supports this ranking; avg skill proficiency (2.89) supports this ranking.
+CAND_0006557,95,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.22) supports this ranking; applications submitted 30d (21) supports this ranking.
+CAND_0007412,96,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (2.92) supports this ranking; applications submitted 30d (20) supports this ranking.
+CAND_0016163,97,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (2.94) supports this ranking; assessment score max (89.10) supports this ranking.
+CAND_0029367,98,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.41) supports this ranking; applications submitted 30d (20) supports this ranking.
+CAND_0031593,99,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (2.94) supports this ranking; applications submitted 30d (20) supports this ranking.
+CAND_0060054,100,0.158101,Max skill proficiency (4) supports this ranking; avg skill proficiency (3.30) supports this ranking; assessment score max (89.90) supports this ranking.

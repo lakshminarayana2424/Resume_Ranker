@@ -1,0 +1,32 @@
+# Core ML Frameworks
+torch==2.11.0
+transformers==5.12.1
+vllm==0.23.0
+
+# Ranking Model
+lightgbm==4.6.0
+
+# Data Processing
+numpy==2.2.6
+pandas==2.3.3
+
+# Hugging Face Ecosystem
+huggingface_hub==1.21.0
+tokenizers==0.22.2
+safetensors==0.8.0
+sentencepiece==0.2.1
+hf-xet==1.5.1
+
+# Utilities
+tqdm==4.68.3
+requests==2.34.2
+filelock==3.29.4
+packaging==26.2
+PyYAML==6.0.3
+regex==2026.5.9
+
+# vLLM Runtime
+tiktoken==0.13.0
+msgspec==0.21.1
+protobuf==6.33.6
+psutil==7.2.2
